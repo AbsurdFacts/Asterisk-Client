@@ -23,5 +23,10 @@ PlayerLevelInfinite (ASTERISK PRIVATE USERS ONLY),
 FreeKits (ASTERISK PRIVATE USERS ONLY),
 JoinAnyClan (ASTERISK PRIVATE USERS ONLY)
 ---------------------------------------------
-# How To Get Asterisk Private
+# QNA
+## How To Get Asterisk Private
 I will make a discord server for Asterisk and u can get trust in that server where u could get Asterisk Private!
+## Is this safe to use?
+Yes it is!
+## Can i get banned from this?
+Yea but its on your risk.
